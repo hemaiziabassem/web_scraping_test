@@ -1,0 +1,13 @@
+Content-Length: 600
+Date: Thu, 18 Jul 2024 21:50:26 GMT
+Server: Apache
+Etag: "61d7210601246-gzip"
+Accept-Ranges: bytes
+Cache-Control: max-age=216000, public, must-revalidate
+Cache-Control: private
+Expires: Thu, 18 Jul 2024 21:50:27 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/plain
+Strict-Transport-Security: max-age=16000000; includeSubDomains;
+Set-Cookie: SRV=apache-local; path=/; domain=.valiton.com
